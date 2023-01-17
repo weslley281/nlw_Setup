@@ -1,0 +1,2 @@
+rodar as migrações = npx prisma migrate dev
+visualizar banco de dados = npx prisma studio
